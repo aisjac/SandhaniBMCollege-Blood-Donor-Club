@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:gravity="center"
+    android:background="@drawable/header">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/ProPicId"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/sandhani"
+        app:civ_border_width="1dp"
+        app:civ_border_color="#FF000000"/>
+
+    <TextView
+        android:id="@+id/ProNameId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/clubName"
+        android:textStyle="bold"
+        android:textSize="15sp"/>
+
+
+</LinearLayout>

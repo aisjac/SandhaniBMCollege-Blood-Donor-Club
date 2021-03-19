@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">SandhaniBMCollege</string>
+
+    <string-array name="Designation">
+
+        <item>সভাপতি</item>
+        <item>সহ সভাপতি</item>
+        <item>সম্পাদক</item>
+        <item>সদস্য</item>
+        <item>সাধারন সদস্য</item>
+
+    </string-array>
+    <string-array name="Blood_Group">
+
+        <item>A(+ve)</item>
+        <item>A(-ve)</item>
+        <item>B(+ve)</item>
+        <item>B(-ve)</item>
+        <item>AB(+ve)</item>
+        <item>AB(-ve)</item>
+        <item>O(+ve)</item>
+        <item>O(-ve)</item>
+
+    </string-array>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="about_club">Sandhani Donar Club \n BM College,Barishal \n It\'s a voluntary organization. We help the poor and helpless people. We donate blood.\n Founding Date \n 28 february 1985</string>
+    <string name="location_and_contract_headline">Office Location and Contract</string>
+    <string name="loc_and_cont_detais">Govt BM College Southern part of Oditorium \nPhone : 01751252319</string>
+    <string name="blood_donation_nspiration_quote">“Don\’t let fools or mosquitoes suck your blood, \n put it to good use. Donate blood and save a life.”</string>
+
+
+    <string name="clubName">Sandhani Donar Club \n BM College,Barishal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="note">Note: This is only for apps admin. If you want to join as a admin please contract with us.\n\n
+        Phone: 01751252319</string>
+
+
+</resources>

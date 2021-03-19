@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <group android:checkableBehavior="single">
+
+            <item
+                android:id="@+id/presidentItemId"
+                android:icon="@drawable/drawer_item_icon_single"
+                android:title="President" />
+            <item
+                android:id="@+id/viceprecidentItemId"
+                android:icon="@drawable/drawer_item_icon_dpuble"
+                android:title="Vice-President" />
+            <item
+                android:id="@+id/secrateryIemId"
+                android:icon="@drawable/drawer_item_icon_dpuble"
+                android:title="Secratery" />
+            <item
+                android:id="@+id/memberItemId"
+                android:icon="@drawable/drawer_icon_double_plus"
+                android:title="Member" />
+
+
+        </group>
+        <item android:title="General Member Section">
+            <menu>
+                <group android:checkableBehavior="single">
+
+                    <item
+                        android:id="@+id/generalMemberItemId"
+                        android:icon="@drawable/profile"
+                        android:title="General Member" />
+
+                </group>
+            </menu>
+
+        </item>
+    <item android:title="Admin Section">
+            <menu>
+                <group android:checkableBehavior="single">
+
+                    <item
+                        android:id="@+id/adminLoginItemId"
+                        android:icon="@drawable/profile"
+                        android:title="Admin LogIn" />
+
+                </group>
+            </menu>
+
+        </item>
+</menu>

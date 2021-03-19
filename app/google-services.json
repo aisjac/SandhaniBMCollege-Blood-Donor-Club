@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1009498428167",
+    "firebase_url": "https://emran-93918.firebaseio.com",
+    "project_id": "emran-93918",
+    "storage_bucket": "emran-93918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009498428167:android:98cf945585f5b73d096ba2",
+        "android_client_info": {
+          "package_name": "com.example.emran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009498428167-s3idft2ah4s1n4j3dksrc857pp9k0j46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emran",
+            "certificate_hash": "dba61de8129b9ed79f3c2029597fb1de08e1d2f6"
+          }
+        },
+        {
+          "client_id": "1009498428167-b0o3a6a7e1gjgfvllm0kp8b4jjomtmet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjkjO8nMUOy_dD9U6q0n4YiKEbHUuwncQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009498428167-b0o3a6a7e1gjgfvllm0kp8b4jjomtmet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
